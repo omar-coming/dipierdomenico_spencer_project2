@@ -36,9 +36,11 @@ h1{
     font-size:1.4rem;
     font-family: 'Montserrat', sans-serif;
     word-spacing:15px;
-    text-transform: capitalize;
-    margin-top:50px;
+    text-transform: uppercase;
+    margin-top:25px;
+    margin-bottom:50px;
     font-weight: normal;
+    
 }
 
 p{
@@ -48,5 +50,6 @@ p{
     font-family: 'Inconsolata', monospace;
     line-height:30px;
     font-weight: normal;
+    color:rgb(78, 78, 78);
 
 }
